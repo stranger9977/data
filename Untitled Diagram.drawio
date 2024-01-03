@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T02:04:02.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7-b3t2ie2RRjO4At78nX" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T02:14:58.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="w3Nu8ObOwVtWHczlOyrM" version="22.1.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="701" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;br&gt;&amp;nbsp;PSO Loop&lt;br&gt;Unit = FS, SS, CB&lt;br&gt;&lt;br&gt;&amp;nbsp;FRAME BY FRAME" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="304" y="5" width="190" height="150" as="geometry" />
+          <mxGeometry x="200" y="5" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="5SzXvzlyFdVxs-1gDQvk-23">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-21" value="&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Week 1-9&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Completed Passes&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp;(Ball arrived to end of play)&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;actual x, y, s&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;with optimal x and y paths&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;FRAME BY FRAME&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="190" width="160" height="140" as="geometry" />
+          <mxGeometry x="390" y="210" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-23" target="5SzXvzlyFdVxs-1gDQvk-37">
           <mxGeometry relative="1" as="geometry" />
@@ -50,34 +50,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-30" value="Filter and &lt;br&gt;Clean Data&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5SzXvzlyFdVxs-1gDQvk-31" value="&lt;ul&gt;&lt;li&gt;gameId&lt;/li&gt;&lt;li&gt;playId&lt;/li&gt;&lt;li&gt;xyac mean yardage&lt;/li&gt;&lt;li&gt;PLAY BY PLAY&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="17.5" y="260" width="125" height="125" as="geometry" />
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-31" value="&lt;ul&gt;&lt;li&gt;gameId&lt;/li&gt;&lt;li&gt;playId&lt;/li&gt;&lt;li&gt;defensiveTeam&amp;nbsp;&lt;/li&gt;&lt;li&gt;xyac mean yardage&lt;/li&gt;&lt;li&gt;actual yac&amp;nbsp;&lt;/li&gt;&lt;li&gt;PLAY BY PLAY&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="240" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-33" target="5SzXvzlyFdVxs-1gDQvk-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SzXvzlyFdVxs-1gDQvk-33" value="import pbp data from nflfast R&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-33" value="import pbp data from nflfastR&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-37" target="5SzXvzlyFdVxs-1gDQvk-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-37" value="Aggregate to play level&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5SzXvzlyFdVxs-1gDQvk-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;gameId&lt;/li&gt;&lt;li&gt;playId&lt;/li&gt;&lt;li&gt;nflid&lt;br&gt;&lt;/li&gt;&lt;li&gt;total frechet&amp;nbsp;&lt;br&gt;distance&amp;nbsp;&lt;br&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;for each nfl id&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;PLAY BY PLAY&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="240" width="145" height="145" as="geometry" />
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;gameId&lt;/li&gt;&lt;li&gt;playId&lt;/li&gt;&lt;li&gt;nflid&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;defensiveTeam&lt;/li&gt;&lt;li&gt;total frechet&amp;nbsp;&lt;br&gt;distance&amp;nbsp;&lt;br&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;for each nfl id&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;PLAY BY PLAY&amp;nbsp;&lt;/li&gt;&lt;li&gt;PLAYER LEVEL&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="240" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5SzXvzlyFdVxs-1gDQvk-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-41" target="5SzXvzlyFdVxs-1gDQvk-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SzXvzlyFdVxs-1gDQvk-41" value="merge&amp;nbsp;&lt;br&gt;on play id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="292.5" width="60" height="60" as="geometry" />
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-41" value="merge&amp;nbsp;&lt;br&gt;on play id&lt;br&gt;gameId" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="292.5" width="67.5" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="5SzXvzlyFdVxs-1gDQvk-42" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-42" target="5SzXvzlyFdVxs-1gDQvk-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-42" value="&lt;ul&gt;&lt;li&gt;gameId&lt;/li&gt;&lt;li&gt;nflId&lt;/li&gt;&lt;li&gt;team&lt;/li&gt;&lt;li&gt;playId&lt;/li&gt;&lt;li&gt;team xyac mean yardage&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;actual yac&amp;nbsp;&lt;/li&gt;&lt;li&gt;player frechet distance&amp;nbsp;&lt;/li&gt;&lt;li&gt;PLAY BY PLAY&amp;nbsp;&lt;/li&gt;&lt;li&gt;PLAYER LEVEL&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75.63" y="580" width="156.25" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-46" target="5SzXvzlyFdVxs-1gDQvk-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-46" value="&lt;br&gt;Aggregate to team level&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282" y="780" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-47" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;gameId&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;nflId&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;team&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;playId&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;total team xyac mean yardage&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;perplay xyac mean yardage&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;player frechet distance&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TEAM LEVEL&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="731.25" width="160" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5SzXvzlyFdVxs-1gDQvk-52" target="5SzXvzlyFdVxs-1gDQvk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SzXvzlyFdVxs-1gDQvk-52" value="&amp;nbsp;alculate Yac Diff&lt;br&gt;&lt;br&gt;xyac - actual yac&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="590" width="154" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
